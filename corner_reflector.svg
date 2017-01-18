@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1138.4655"
+   height="476.11307"
+   id="svg9044"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="corner_reflector.svg"
+   inkscape:export-filename="/home/baffelli/PhD_work/Presentation_workshop/Drawings/corner_reflector.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs9046">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5055"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5052"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-236.74904 : 260.05171 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="565.98509 : 261.69329 : 1"
+       inkscape:persp3d-origin="-21.605706 : 200.52599 : 1"
+       id="perspective9052" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45014485"
+     inkscape:cx="1029.4426"
+     inkscape:cy="589.13143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="-338.67204,372.6411"
+       id="guide9102" />
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="-450.8036,389.42726"
+       id="guide9166" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="96.132791,23.753071"
+       id="guide9290" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="934.80827,262.22969"
+       id="guide9322" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-215.93238,-268.71052"
+       id="guide9326" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata9049">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-293.68513,-172.02667)">
+    <g
+       sodipodi:type="inkscape:box3d"
+       style="fill:#ff0000;fill-opacity:0.24657533000000001;fill-rule:nonzero;stroke:#0000ff;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="g9308"
+       inkscape:perspectiveID="#perspective9052"
+       inkscape:corner0="-0.091259962 : 0.1376745 : 0 : 1"
+       inkscape:corner7="-0.5577069 : -0.055493353 : 0.36708992 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path9318"
+         style="fill:#afafde;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:box3dsidetype="13"
+         d="M 293.68513,514.65786 543.36315,648.13973 686.82198,529.4506 456.53397,477.76805 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path9310"
+         style="fill:#353564;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:box3dsidetype="6"
+         d="m 293.68513,302.09118 0,212.56668 162.84884,-36.88981 0,-151.40564 z" />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path9320"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:box3dsidetype="11"
+         d="m 456.53397,326.36241 230.28801,-35.57243 0,238.66062 -230.28801,-51.68255 z" />
+    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-mid:none;marker-end:url(#Arrow1Lend)"
+       d="M 1430.6506,281.49921 490.25355,562.9539"
+       id="path9838"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 490.25355,562.9539 375.10955,408.37452 544.26925,385.91004 1334.205,174.24738"
+       id="path9853"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
