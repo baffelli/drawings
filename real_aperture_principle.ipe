@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70107" creator="Ipe 7.1.10">
-<info created="D:20180803092402" modified="D:20180807112554"/>
+<info created="D:20180803092402" modified="D:20180807140950"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -180,6 +180,24 @@ h
 h
 </path>
 </symbol>
+<symbol name="antenna">
+<group matrix="1 0 0 1 143.945 0.0994616">
+<path stroke="black" pen="heavier">
+128 640 m
+128 624 l
+256 624 l
+256 640 l
+h
+</path>
+<path stroke="black" pen="heavier">
+192 624 m
+96 320 l
+288 320 l
+288 320 l
+h
+</path>
+</group>
+</symbol>
 <pen name="heavier" value="0.8"/>
 <pen name="fat" value="1.2"/>
 <pen name="ultrafat" value="2"/>
@@ -254,55 +272,10 @@ h
 <page>
 <layer name="alpha"/>
 <view layers="alpha" active="alpha"/>
-<text layer="alpha" matrix="1 0 0 1 -3.78155 -7.13193" transformations="translations" pos="192 672" stroke="black" type="label" width="11.469" height="11.764" depth="0" valign="baseline" size="LARGE">$L
+<text layer="alpha" matrix="1 0 0 1 138.861 11.7829" transformations="translations" pos="192 672" stroke="black" type="label" width="11.469" height="11.764" depth="0" valign="baseline" size="LARGE">$L
 $</text>
-<text matrix="1 0 0 1 -16 -64" transformations="translations" pos="192 560" stroke="black" type="label" width="29.786" height="11.957" depth="2.58" valign="baseline" size="LARGE">$\theta_{3dB}$</text>
-<text transformations="translations" pos="304 256" stroke="black" type="label" width="28.638" height="11.766" depth="2.58" valign="baseline" size="LARGE">$L_{SA}
-$</text>
-<path stroke="black" pen="heavier">
-128 640 m
-128 624 l
-256 624 l
-256 640 l
-h
-</path>
-<path stroke="black" pen="heavier">
-240 472 m
-159.399 0 0 -159.399 192 624 144 472 a
-</path>
-<group>
-<path stroke="black" pen="heavier">
-128 640 m
-128 624 l
-256 624 l
-256 640 l
-h
-</path>
-<path stroke="black" pen="heavier">
-192 624 m
-96 320 l
-288 320 l
-288 320 l
-h
-</path>
-</group>
-<group matrix="1 0 0 1 144 0">
-<path stroke="black" pen="heavier">
-128 640 m
-128 624 l
-256 624 l
-256 640 l
-h
-</path>
-<path stroke="black" pen="heavier">
-192 624 m
-96 320 l
-288 320 l
-288 320 l
-h
-</path>
-</group>
-<group matrix="1 0 0 1 288 0">
+<text matrix="1 0 0 1 128 -57.771" transformations="translations" pos="192 560" stroke="black" type="label" width="29.786" height="11.957" depth="2.58" valign="baseline" size="LARGE">$\theta_{3dB}$</text>
+<group matrix="1 0 0 1 143.945 0.0994616">
 <path stroke="black" pen="heavier">
 128 640 m
 128 624 l
@@ -327,18 +300,41 @@ h
 336 320 l
 </path>
 <text matrix="1 0 0 1 -10.81 -25.803" transformations="translations" pos="352 464" stroke="black" type="label" width="10.81" height="9.803" depth="0" valign="baseline" size="Large">$R$</text>
-<path matrix="1 0 0 1 0 -16" stroke="black" pen="heavier" arrow="normal/normal" rarrow="normal/normal">
+<path matrix="1 0 0 1 142.283 -28.2573" stroke="black" pen="heavier" arrow="normal/normal" rarrow="normal/normal">
 96 320 m
 288 320 l
 </path>
-<path matrix="1 0 0 1 0 -48" stroke="black" pen="heavier" arrow="normal/normal" rarrow="normal/normal">
-96 320 m
-576 320 l
-</path>
-<text matrix="1 0 0 1 0 -16" transformations="translations" pos="192 304" stroke="black" type="label" width="17.057" height="9.965" depth="2.15" valign="baseline" size="Large">$\delta_{az}$</text>
-<path stroke="black" pen="heavier" arrow="normal/normal" rarrow="normal/normal">
+<text matrix="1 0 0 1 132.107 -32.1989" transformations="translations" pos="192 304" stroke="black" type="label" width="20.08" height="11.957" depth="2.58" valign="baseline" size="LARGE">$\delta_{az}$</text>
+<path matrix="1 0 0 1 144 25.1182" stroke="black" pen="heavier" arrow="normal/normal" rarrow="normal/normal">
 128 656 m
 256 656 l
 </path>
+<path stroke="black" pen="heavier">
+8.58971 0 0 8.58971 336 640 e
+</path>
+<path stroke="black" pen="heavier" arrow="normal/normal" rarrow="normal/normal">
+366.438 527.614 m
+101.078 0 0 -101.078 336 624 305.562 527.614 a
+</path>
+<path stroke="black" rarrow="normal/normal">
+354.138 658.138 m
+25.8074 0 0 25.8074 335.78 640 317.641 658.358 a
+</path>
+<path matrix="0.92388 -0.382683 0.382683 0.92388 -86.3153 122.305" stroke="black" dash="dashed">
+128 640 m
+128 624 l
+256 624 l
+256 640 l
+h
+</path>
+<path matrix="0.92388 -0.382683 0.382683 0.92388 -86.3153 122.305" stroke="black" dash="dashed">
+192 624 m
+96 320 l
+288 320 l
+288 320 l
+h
+</path>
+<text matrix="1 0 0 1 -3.93635 -10.3588" transformations="translations" pos="334.971 665.795" stroke="black" type="label" width="9.262" height="6.177" depth="0" valign="baseline" size="Large">$\omega
+$</text>
 </page>
 </ipe>
