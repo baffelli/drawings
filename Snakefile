@@ -20,7 +20,7 @@ rule png:
     input:
         "{name}.svg"
     shell:
-        "inkscape {input} --export-{wildcards.ext}={output} -w 1000 --export-background-opacity=0.0"
+        "inkscape {input} --export-{wildcards.ext}={output} -w 2000 --export-background-opacity=0.0"
 
 
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70107" creator="Ipe 7.1.10">
-<info created="D:20180803092402" modified="D:20180807140950"/>
+<info created="D:20180803092402" modified="D:20180814143849"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -274,8 +274,7 @@ h
 <view layers="alpha" active="alpha"/>
 <text layer="alpha" matrix="1 0 0 1 138.861 11.7829" transformations="translations" pos="192 672" stroke="black" type="label" width="11.469" height="11.764" depth="0" valign="baseline" size="LARGE">$L
 $</text>
-<text matrix="1 0 0 1 128 -57.771" transformations="translations" pos="192 560" stroke="black" type="label" width="29.786" height="11.957" depth="2.58" valign="baseline" size="LARGE">$\theta_{3dB}$</text>
-<group matrix="1 0 0 1 143.945 0.0994616">
+<group matrix="1 0 0 1 143.945 0.391037">
 <path stroke="black" pen="heavier">
 128 640 m
 128 624 l
@@ -336,5 +335,15 @@ h
 </path>
 <text matrix="1 0 0 1 -3.93635 -10.3588" transformations="translations" pos="334.971 665.795" stroke="black" type="label" width="9.262" height="6.177" depth="0" valign="baseline" size="Large">$\omega
 $</text>
+<group matrix="1 0 0 1 -147.516 -0.868623">
+<path matrix="1 0 0 1 148.623 -0.0405544" fill="white">
+320 514.186 m
+320 499.649 l
+349.786 499.649 l
+349.786 514.186 l
+h
+</path>
+<text matrix="1 0 0 1 277.154 -57.8116" transformations="translations" pos="192 560" stroke="black" type="label" width="29.786" height="11.957" depth="2.58" valign="baseline" size="LARGE">$\theta_{3dB}$</text>
+</group>
 </page>
 </ipe>
