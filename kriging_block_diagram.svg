@@ -10,7 +10,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92.2 (unknown)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="kriging_block_diagram.svg"
    id="svg6259"
    version="1.1"
@@ -25,7 +25,7 @@
      inkscape:snap-center="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:window-maximized="1"
@@ -35,11 +35,11 @@
      inkscape:window-width="1920"
      inkscape:snap-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6706"
      inkscape:document-units="mm"
-     inkscape:cy="2444.834"
-     inkscape:cx="2788.6231"
-     inkscape:zoom="0.16711535"
+     inkscape:cy="2201.7603"
+     inkscape:cx="380.16454"
+     inkscape:zoom="0.11844831"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1032,7 +1032,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1098,15 +1098,15 @@
          style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:0.47843137;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text6868-3-2"
-         y="105.75204"
-         x="287.37662"
+         y="102.80932"
+         x="279.2417"
          style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center"
-           y="105.75204"
-           x="200.49475"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px"
+           y="102.80932"
+           x="279.2417"
            id="tspan6866-6-3"
-           sodipodi:role="line">Compute 2D Interferograms</tspan></text>
+           sodipodi:role="line">2D Interferograms</tspan></text>
       <image
          y="40.60722"
          x="202.36032"
@@ -1142,14 +1142,14 @@
         <text
            xml:space="preserve"
            style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="497.13953"
+           x="490.53491"
            y="324.52396"
            id="text6868-3-2-2-3"><tspan
              sodipodi:role="line"
              id="tspan6866-6-3-8-6"
-             x="437.51181"
+             x="492.98093"
              y="324.52396"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Variogram Analysis</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">Estimate Variogram </tspan></text>
         <path
            inkscape:connector-curvature="0"
            id="path390"
@@ -15620,7 +15620,7 @@
              id="tspan6866-6-3-1"
              x="471.49802"
              y="115.75572"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">2D Unwrap</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">2D Unwrap</tspan></text>
       </g>
     </g>
     <g
@@ -15636,9 +15636,9 @@
          id="text6868-3-2-5-3"
          y="33.967224"
          x="759.33051"
-         style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-size:17.63888889px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center;"
            y="33.967224"
            x="697.09485"
            id="tspan6866-6-3-9-1"
@@ -15672,11 +15672,11 @@
          x="1204.4098"
          style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px"
            y="238.88234"
-           x="1128.094"
+           x="1204.4098"
            id="tspan6866-6-3-9-1-0"
-           sodipodi:role="line">Detrended Interferogram</tspan></text>
+           sodipodi:role="line">Detrended Ifgram.</tspan></text>
       <image
          y="175.52638"
          x="1120.7972"
@@ -15709,7 +15709,7 @@
              id="tspan6866-6-3-9-1-0-6-3"
              x="970.48969"
              y="135.62827"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Detrend</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Detrend</tspan></text>
         <g
            id="g13327"
            transform="matrix(1.562265,0,0,1.562265,801.67423,-60.99674)">
@@ -15784,9 +15784,9 @@
          id="text6868-2"><tspan
            sodipodi:role="line"
            id="tspan6866-7"
-           x="1124.504"
+           x="1200.3723"
            y="466.21298"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Collect and Sort Detrended</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">Stack</tspan></text>
       <g
          id="g29196"
          transform="translate(-21.608148,22.935467)">
@@ -15837,9 +15837,9 @@
            id="text6868-3-2-5-3-45-3"><tspan
              sodipodi:role="line"
              id="tspan6866-6-3-9-1-0-6"
-             x="643.02631"
+             x="703.28308"
              y="44.208641"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Estimated Timeseries </tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">Timeseries</tspan></text>
       </g>
       <g
          transform="translate(335.00864,24.561212)"
@@ -15891,14 +15891,14 @@
       <text
          xml:space="preserve"
          style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="49.841885"
+         x="46.750259"
          y="119.82433"
          id="text6868"><tspan
            sodipodi:role="line"
            id="tspan6866"
-           x="16.837872"
+           x="46.750259"
            y="119.82433"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">SLC Stack</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">SLC Stack</tspan></text>
       <g
          transform="translate(-50.849514,109.80547)"
          id="g35290">
@@ -15942,14 +15942,14 @@
         <text
            xml:space="preserve"
            style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="125.81421"
+           x="125.55324"
            y="266.80798"
            id="text6868-3-2-2"><tspan
              sodipodi:role="line"
              id="tspan6866-6-3-8"
-             x="125.81421"
+             x="125.55324"
              y="266.80798"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">Compute PS Interferograms</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">PS Interferograms</tspan></text>
         <image
            width="153.92123"
            height="35.822514"
@@ -15985,14 +15985,14 @@
       <text
          xml:space="preserve"
          style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="58.327606"
+         x="47.146381"
          y="276.68283"
          id="text6868-3"><tspan
            sodipodi:role="line"
            id="tspan6866-6"
-           x="58.327606"
+           x="47.146381"
            y="276.68283"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Detect PS</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Detect PS</tspan></text>
       <rect
          y="204.14645"
          x="-3.7535942"
@@ -16160,14 +16160,14 @@
          id="flowPara40962">temp</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1000%;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="489.93478"
+       x="483.58469"
        y="251.37239"
        id="text40966"><tspan
          sodipodi:role="line"
          id="tspan40964"
-         x="489.93478"
+         x="483.58469"
          y="251.37239"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Spatial variogram</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Spatial variogram</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot41025"
@@ -16210,12 +16210,12 @@
       <text
          id="text6868-3-2-5-3-4"
          y="360.82007"
-         x="757.66882"
+         x="754.01251"
          style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px"
            y="360.82007"
-           x="698.63025"
+           x="754.01251"
            id="tspan6866-6-3-9-1-7"
            sodipodi:role="line">Regression-Kriging</tspan></text>
       <g
@@ -16314,7 +16314,7 @@
          id="tspan40964-2"
          x="636.0387"
          y="558.02771"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Temporal variogram</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Temporal variogram</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;line-height:1000%;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -16379,7 +16379,7 @@
              id="tspan6866-6-3-9-1-0-6-8"
              x="1157.4991"
              y="623.92938"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Pixelwise Inversion</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Pixelwise Inversion</tspan></text>
         <g
            transform="matrix(0.39914941,0,0,0.39914941,889.09234,411.53425)"
            id="g8685">
