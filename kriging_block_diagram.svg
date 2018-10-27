@@ -35,11 +35,11 @@
      inkscape:window-width="1920"
      inkscape:snap-bbox="true"
      showgrid="false"
-     inkscape:current-layer="g6706"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="2201.7603"
-     inkscape:cx="380.16454"
-     inkscape:zoom="0.11844831"
+     inkscape:cy="1723.6872"
+     inkscape:cx="3022.4154"
+     inkscape:zoom="0.26383346"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -47,9 +47,32 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true">
+    <sodipodi:guide
+       position="371.32657,494.57032"
+       orientation="1538.8495,0"
+       id="guide1975"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1126.8287,64.282713"
+       orientation="0,1564.3422"
+       id="guide1984"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs6253">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1979"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1969"
+       is_visible="true" />
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -15768,28 +15791,11 @@
       </g>
     </g>
     <g
-       id="g16201">
-      <rect
-         style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:0.47843137;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6301-6"
-         width="260.09305"
-         height="137.55923"
-         x="1070.9583"
-         y="337.30301" />
-      <text
-         xml:space="preserve"
-         style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1200.3723"
-         y="466.21298"
-         id="text6868-2"><tspan
-           sodipodi:role="line"
-           id="tspan6866-7"
-           x="1200.3723"
-           y="466.21298"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">Stack</tspan></text>
+       id="g16201"
+       transform="translate(19.606592,32.090951)">
       <g
          id="g29196"
-         transform="translate(-21.608148,22.935467)">
+         transform="translate(-30.63373,29.955363)">
         <image
            width="153.92101"
            height="35.822456"
@@ -16307,14 +16313,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:1000%;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="636.0387"
-       y="558.02771"
+       x="617.98755"
+       y="714.2113"
        id="text40966-0"><tspan
          sodipodi:role="line"
          id="tspan40964-2"
-         x="636.0387"
-         y="558.02771"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Temporal variogram</tspan></text>
+         x="617.98755"
+         y="714.2113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke:none;stroke-width:0.26458332px">Temporal variogram</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;line-height:1000%;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -16363,12 +16369,12 @@
       <g
          id="g10665">
         <rect
-           style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:0.47843137;fill-rule:evenodd;stroke:#000000;stroke-width:1.41111112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:0.47843137;fill-rule:evenodd;stroke:#000000;stroke-width:2.26967859;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7184-7-29-8-9-6"
-           width="345.12961"
-           height="120.9217"
-           x="1039.021"
-           y="515.90717" />
+           width="344.27103"
+           height="313.61166"
+           x="1039.4503"
+           y="322.7879" />
         <text
            xml:space="preserve"
            style="font-size:10.58333302px;line-height:1000%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -16377,9 +16383,9 @@
            id="text6868-3-2-5-3-45-3-3"><tspan
              sodipodi:role="line"
              id="tspan6866-6-3-9-1-0-6-8"
-             x="1157.4991"
+             x="1216.5067"
              y="623.92938"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888889px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.26458332px;text-anchor:middle;text-align:center">Pixelwise Inversion</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332px">Pixelwise Stack Inversion</tspan></text>
         <g
            transform="matrix(0.39914941,0,0,0.39914941,889.09234,411.53425)"
            id="g8685">
@@ -16491,22 +16497,6 @@
        d="M 848.49941,-157.25504 H 1205.4829 V -26.283285"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       inkscape:connection-end="#g16201"
-       inkscape:connection-start="#g37528"
-       inkscape:connector-curvature="0"
-       inkscape:connector-type="orthogonal"
-       id="path16232"
-       d="m 1204.1713,255.39466 v 81.90835"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connection-end="#g16230"
-       inkscape:connection-start="#g16201"
-       inkscape:connector-curvature="0"
-       inkscape:connector-type="orthogonal"
-       id="path16234"
-       d="m 1211.5858,474.86224 v 41.04493"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
        inkscape:connection-end="#g37550"
        inkscape:connection-start="#g16230"
        inkscape:connector-curvature="0"
@@ -16531,14 +16521,6 @@
        d="M 873.80182,170.37129 1126.7621,57.697175"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       inkscape:connection-start="#g40795"
-       inkscape:connection-end="#g16230"
-       inkscape:connector-curvature="0"
-       inkscape:connector-type="orthogonal"
-       id="path2827"
-       d="m 375.60152,292.16679 0,284.20123 H 1039.021"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
        inkscape:connection-end="#g6706"
        inkscape:connection-start="#g40795"
        inkscape:connector-curvature="0"
@@ -16546,5 +16528,10 @@
        id="path8702"
        d="m 464.76703,223.684 169.65423,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.76388884;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 375.60151,292.16677 V 722.45438 H 1131.1037"
+       id="path1986"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
